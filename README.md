@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Idea
+
+This app for tracking covid-19 cases
+This App made with react js, react hooks and material ui
+
+## Demo
+
+[Open Demo] (https://react-covid-cases-tracker.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
