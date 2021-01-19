@@ -9,7 +9,7 @@ This App made with react js, react hooks and material ui
 
 ## Demo
 
-[Open Demo] (https://react-covid-cases-tracker.netlify.app/)
+Open Demo => (https://react-covid-cases-tracker.netlify.app/)
 
 ## Available Scripts
 
